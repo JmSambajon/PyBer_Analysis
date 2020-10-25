@@ -5,6 +5,8 @@ The purpuse of this analysis is to provide a summary of ride-share data from rur
 
 ## Results
 
-![pic1](Analysis/PyBer_fare_summary.png)
+![table](Analysis/Pyber_summary_table.png)
+
+![chart](Analysis/PyBer_fare_summary.png)
 
 ## Summary
