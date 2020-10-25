@@ -17,11 +17,10 @@ which city types had the highest and lowest average fare per driver.
 
   While that is the case for those 3 categories, we see the opposite for the average fare per ride and average fare per driver. Rural city types have the highest average fare per ride and average fare per driver, $34.62 and $55.49 respectively. Suburban city types are in the middle for average fare per ride and average fare per driver, with $30.97 and $39.50 respectively. Urbam city types had the lowest average fare per ride and fare per driver with $24.53 and $16.57 respectivley.
 
-
-
-
-
 This line chart illustrates the relationship between ride-share fare totals and different city types. Urban cities have the highest amount of fares, followed by suburban cities, and then rural cities. While there are some spikes in usage during certain times, like the end of February, the amount of fares stay consistent within their city types.
 ![chart](Analysis/PyBer_fare_summary.png)
 
 ## Summary
+
+Based on the results, we are able to provide three business recommendations to the CEO of PyBer for addressing any disparities among the city types. The first recommendation would be to create an incentive program to attract new users in rural city types. This will lead to an increase in the total number rides which will lead to a higher amount of total fares. Another recommendation would be to lower the fare cost in rural city types. This is a another way to increast the demand in rural city types but it might affect the total fares, average fare per ride, and average fare per driver.
+One more reccomnedation would be to slightly increase the fare in urban city types. Increasing the fares within urban city types would create an increase of total fares, average fare per ride, and average fare per driver. I emphsize "slightly increase" so we dont lose any business to competitors.
